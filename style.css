@@ -262,6 +262,7 @@ header {
 
 .sect5 {
   background: url(./img/section5/back.svg);
+  background-size: cover;
 }
 .head {
   display: none;
